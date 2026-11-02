@@ -1,31 +1,4 @@
 <div align="center"> <img src="assets/wave-banner.svg" alt="wave of 0 and 1" width="100%" /> <img src="assets/profile.svg" alt="Anwar - GitHub stats card" width="100%" /> <img src="https://raw.githubusercontent.com/anwarspo2008-eng/anwarspo2008-eng/output/github-snake-bw.svg" alt="contribution snake" width="100%" /> </div>
-1110010
-  01  100011
-  0000 00  001
-  11 001 10   011
-1011   01  00   01  01
-10 0000 011  11  00110
- 1101000  00  01  10 01
- 0011  01  10  01  1000
- 10 00  01  10  11  1000
-00   01  1   10  10  10010
-00  001  10   10   0    001
-01  1111   0             00
- 01  0100                 00
-  11  1000                01
-    1  001                01
-    1    00                01
-    11   00                 0
-     1    01                1
-     00    01               10
-      01    101              0101011000
-      001    111            11100101000
-     11101     100         0111011101
-    001010       001     10010011101
-    111110        01011 10011001000
-    010100       011001000110100110
-    11001111000001011  10100111110
-    00100101011001101  11010110100
-     100101000111101   1011110010
-      1000000011101    0101010110
-         0000010          110000
+<div align="center">
+  <img src="assets/snake-art.svg" alt="snake" width="180" />
+</div>
