@@ -25,3 +25,7 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="assets/loading.svg" alt="future is loading" width="460" />
+</div>
