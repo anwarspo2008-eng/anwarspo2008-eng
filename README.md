@@ -22,6 +22,14 @@
 <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge" />
 <!-- PUBLIC CODE STATS START -->
+Public, non-fork repositories owned by [@anwarspo2008-eng](https://github.com/anwarspo2008-eng): **6**
+
+| Language | Code lines |
+| --- | ---: |
+| PHP | 434 |
+| C# | 323 |
+| Others | 1,962 |
+| **Total** | **2,719** |
 <!-- PUBLIC CODE STATS END -->
 </td>
 </tr>

@@ -1,0 +1,47 @@
+{
+  "username": "anwarspo2008-eng",
+  "repository_count": 6,
+  "total_code_lines": 2719,
+  "languages": [
+    {
+      "name": "C",
+      "code_lines": 1267
+    },
+    {
+      "name": "C#",
+      "code_lines": 323
+    },
+    {
+      "name": "C# Generated",
+      "code_lines": 11
+    },
+    {
+      "name": "C/C++ Header",
+      "code_lines": 107
+    },
+    {
+      "name": "INI",
+      "code_lines": 25
+    },
+    {
+      "name": "Java",
+      "code_lines": 331
+    },
+    {
+      "name": "MSBuild script",
+      "code_lines": 13
+    },
+    {
+      "name": "PHP",
+      "code_lines": 434
+    },
+    {
+      "name": "Python",
+      "code_lines": 166
+    },
+    {
+      "name": "make",
+      "code_lines": 42
+    }
+  ]
+}
