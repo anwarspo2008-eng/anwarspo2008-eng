@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge" />
-new_content = f"Total lines of code: {total_lines}"
 
 <div align="center">
   <img src="assets/loading.svg" alt="future is loading" width="460" />
