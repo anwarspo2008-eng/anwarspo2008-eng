@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge" />
-
+<!-- PUBLIC CODE STATS START -->
+<!-- PUBLIC CODE STATS END -->
 </td>
 </tr>
 </table>
